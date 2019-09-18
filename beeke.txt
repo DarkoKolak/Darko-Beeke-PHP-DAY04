@@ -1,0 +1,3 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<beeke>Halllllo, ich bin die Beeke, und ich bin ein PRO im PHP (Semicolon ;))</beeke>
