@@ -12,6 +12,7 @@ function loadDoc() {
    if (this.readyState == 4 && this.status == 200) {
      document.getElementById("content").innerHTML =
      this.responseText;
+     // responseText is keyword - nicht ändern
    }
  };
  xhttp.open("GET", "darko.txt", true);

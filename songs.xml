@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sometag>
+	<song id="1">
+		<title>Loser</title>
+		<artist>Beck</artist>
+		<country>USA</country>
+		<genre>Pop</genre>
+		<year>1994</year>
+	</song>
+	<song id="2">
+		<title>Did you miss me?</title>
+		<artist>The Cooper Temple Clause</artist>
+		<country>USA</country>
+		<genre>Indie</genre>
+		<year>2002</year>
+	</song>
+	<song id="3">
+		<title>Hitman</title>
+		<artist>The Wanton Bishops</artist>
+		<country>Libanon</country>
+		<genre>Indie</genre>
+		<year>2016</year>
+	</song>
+	<song id="4">
+		<title>Loser</title>
+		<artist>Beck</artist>
+		<country>USA</country>
+		<genre>Pop</genre>
+		<year>1994</year>
+	</song>
+	<song id="5">
+		<title>Sommernächte</title>
+		<artist>Fame and Fortune</artist>
+		<country>Austria</country>
+		<genre>Pop/Rock</genre>
+		<year>2018</year>
+	</song>	
+	<song id="6">
+		<title>The System</title>
+		<artist>Fame and Fortune</artist>
+		<country>Austria</country>
+		<genre>Pop/Rock</genre>
+		<year>2018</year>
+	</song>	
+	<song id="7">
+		<title>Old friend</title>
+		<artist>Fame and Fortune</artist>
+		<country>Austria</country>
+		<genre>Pop/Rock</genre>
+		<year>2018</year>
+	</song>	
+	<song id="8">
+		<title>She's a bitch</title>
+		<artist>Fame and Fortune</artist>
+		<country>Austria</country>
+		<genre>Pop/Rock</genre>
+		<year>2018</year>
+	</song>	
+	<song id="10">
+		<title>Friendzone</title>
+		<artist>Fame and Fortune</artist>
+		<country>Austria</country>
+		<genre>Pop/Rock</genre>
+		<year>2018</year>
+	</song>	
+	<song id="9">
+		<title>Bell of hell</title>
+		<artist>Fame and Fortune</artist>
+		<country>Austria</country>
+		<genre>Pop/Rock</genre>
+		<year>2018</year>
+	</song>	
+	<song id="11">
+		<title>Thanks for nothing</title>
+		<artist>Fame and Fortune</artist>
+		<country>Austria</country>
+		<genre>Pop/Rock</genre>
+		<year>2018</year>
+	</song>	
+	<song id="12">
+		<title>Nothing in between</title>
+		<artist>Fame and Fortune</artist>
+		<country>Austria</country>
+		<genre>Pop/Rock</genre>
+		<year>2018</year>
+	</song>	
+	<song id="13">
+		<title>This year</title>
+		<artist>Fame and Fortune</artist>
+		<country>Austria</country>
+		<genre>Pop/Rock</genre>
+		<year>2018</year>
+	</song>	
+	<song id="14">
+		<title>You and me</title>
+		<artist>Fame and Fortune</artist>
+		<country>Austria</country>
+		<genre>Pop/Rock</genre>
+		<year>2018</year>
+	</song>	
+	<song id="15">
+		<title>Vagabond</title>
+		<artist>Fame and Fortune</artist>
+		<country>Austria</country>
+		<genre>Pop/Rock</genre>
+		<year>2018</year>
+	</song>	
+	<song id="16">
+		<title>Jackie</title>
+		<artist>Fame and Fortune</artist>
+		<country>Austria</country>
+		<genre>Pop/Rock</genre>
+		<year>2018</year>
+	</song>	
+	<song id="17">
+		<title>Easy going</title>
+		<artist>Fame and Fortune</artist>
+		<country>Austria</country>
+		<genre>Pop/Rock</genre>
+		<year>2018</year>
+	</song>	
+	<song id="18">
+		<title>Bloody words</title>
+		<artist>Fame and Fortune</artist>
+		<country>Austria</country>
+		<genre>Pop/Rock</genre>
+		<year>2018</year>
+	</song>	
+	<song id="19">
+		<title>Honestly</title>
+		<artist>Fame and Fortune</artist>
+		<country>Austria</country>
+		<genre>Pop/Rock</genre>
+		<year>2018</year>
+	</song>
+	<song id="20">
+		<title>Where you wanna be</title>
+		<artist>Fame and Fortune</artist>
+		<country>Austria</country>
+		<genre>Pop/Rock</genre>
+		<year>2019</year>
+	</song>
+</sometag
