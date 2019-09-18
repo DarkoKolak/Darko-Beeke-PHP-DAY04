@@ -11,34 +11,33 @@
     // web server will be different from "localhost", but some web servers can handle "localhost"
 
   	$sql = "SELECT * from author";
-    // like a string that is a query
+    // like a string that is q query
 
   	$result = $connectiontoDb->query($sql) or die(mysqli_error());
-    // die stops the process
+    // stops the process
 
   	// $row = $result->fetch_assoc();
-    // not actually needed, because it is in line 25
+    // not actually needed, because it is in line 26
 
       if($result->num_rows > 0) {
         // this displays everything on the screen
         // also possible: "for each"
         while($row = $result->fetch_assoc()) {
-           echo 
-           "<table>
+           echo "<table>
             <tr>
                 <td>" .$row['authorId']."</td> 
                 <td>".$row['name']."</td>
                 <td>" .$row['surname']."</td>
                 <td>" .$row['birthDate']."</td>
                 <td>
-                  <a href='update.php?id=" .$row['authorId']."&name=".$row['name']."&surname=" .$row['surname']."&date=".$row['birthDate']." '><button type='button'>Buy</button></a>
-                  <a href='delete.php?id=" .$row['authorId']."&name=".$row['name']."&surname=" .$row['surname']."&date=".$row['birthDate']."'><button type='button'>Delete</button></a>
+                <a href='update.php?id=" .$row['authorId']."&name=".$row['name']."&surname=" .$row['surname']."&date=".$row['birthDate']." '><button type='button'>Buy</button></a>
+                <a href='delete.php?id=" .$row['authorId']."&name=".$row['name']."&surname=" .$row['surname']."&date=".$row['birthDate']."'><button type='button'>Delete</button></a>
                 </td>
             </tr> 
             </table>" ;
          }
      } else  {
-         echo  "<tr><td colspan='5'><center>No Data available</center></td></tr>";
+         echo  "<tr><td colspan='5'><center>No Data Avaliable</center></td></tr>";
      }
 
   ?>
