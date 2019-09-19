@@ -29,6 +29,7 @@ function myfunction(xml){
 	var beeke = xml.responseXML;
 	var table = "<tr><th><b>TITLE</b></th><th><b>ARTIST</b></th><th><b>COUNTRY</b></th><th><b>GENRE</b></th><th><b>YEAR</b></th></tr>";
 	var darko = beeke.getElementsByTagName("song");
+	console.log(darko);
 	for (i=0;i<darko.length;i++){
 		table+="<tr><td>"+darko[i].getElementsByTagName("title")[0].childNodes[0].nodeValue+"</td><td>"+darko[i].getElementsByTagName("artist")[0].childNodes[0].nodeValue+"</td><td>"+darko[i].getElementsByTagName("country")[0].childNodes[0].nodeValue+"</td><td>"+darko[i].getElementsByTagName("genre")[0].childNodes[0].nodeValue+"</td><td>"+darko[i].getElementsByTagName("year")[0].childNodes[0].nodeValue+"</td></tr>";
 	} 
