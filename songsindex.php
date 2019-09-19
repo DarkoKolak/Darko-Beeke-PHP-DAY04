@@ -20,6 +20,9 @@ include('head.php');
 
 <?php
 
+include('header.php');
+
+
 $error = false;
 if (isset($_POST['btn-register']) ) {
 
